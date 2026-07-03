@@ -7,6 +7,21 @@
   </p>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+</p>
+
 ---
 
 ## Features
@@ -56,34 +71,44 @@
 
 # Tech Stack
 
-## Frontend
+<table>
+<tr>
+<td valign="top" width="25%">
 
+**Frontend**
 - React 18
 - React Router
 - Axios
 - Tailwind CSS
 - Vite
 
-## Backend
+</td>
+<td valign="top" width="25%">
 
+**Backend**
 - Django
 - Django REST Framework
 - Simple JWT
 - Celery
 
-## Database
+</td>
+<td valign="top" width="25%">
 
+**Database / Cache**
 - MySQL 8
-
-## Cache
-
 - Redis
 
-## DevOps
+</td>
+<td valign="top" width="25%">
 
+**DevOps**
 - Docker
 - Docker Compose
 - Nginx
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -138,51 +163,31 @@ SeatSprint
 
 ## Login
 
-> Replace with your login screenshot.
-
-```
-docs/images/login.png
-```
+<img src="docs/images/login.png" alt="Login page" width="800" />
 
 ---
 
 ## Browse Events
 
-> Replace with your browse page screenshot.
-
-```
-docs/images/browse.png
-```
+<img src="docs/images/browse.png" alt="Browse events page" width="800" />
 
 ---
 
 ## My Bookings
 
-> Replace with your bookings screenshot.
-
-```
-docs/images/bookings.png
-```
+<img src="docs/images/bookings.png" alt="My bookings page" width="800" />
 
 ---
 
 ## Organizer Dashboard
 
-> Replace with your organizer screenshot.
-
-```
-docs/images/dashboard.png
-```
+<img src="docs/images/dashboard.png" alt="Organizer dashboard" width="800" />
 
 ---
 
 ## Database
 
-> Replace with your MySQL Workbench screenshot.
-
-```
-docs/images/database.png
-```
+<img src="docs/images/database.png" alt="MySQL Workbench users table" width="800" />
 
 ---
 
@@ -494,7 +499,7 @@ This project is licensed under the MIT License.
 
 GitHub: https://github.com/ishanktiwari18
 
-LinkedIn: https://linkedin.com/in/<your-linkedin>
+LinkedIn: https://linkedin.com/in/ishank-tiwari-it18
 
 ---
 
