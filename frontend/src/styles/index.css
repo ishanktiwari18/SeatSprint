@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+  --bg: #070a12;
+  --panel: #101525;
+  --panel-soft: #151b2e;
+  --line: #273049;
+  --text: #f8f4e8;
+  --muted: #9aa6c4;
+  --gold: #f4bd46;
+  --gold-dark: #c88919;
+  --pink: #ef3d7a;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+  margin: 0;
+}
+
+body {
+  background:
+    radial-gradient(circle at 85% 20%, rgba(55, 34, 66, 0.34), transparent 36%),
+    var(--bg);
+  color: var(--text);
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.marquee-title {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 0.035em;
+  text-transform: uppercase;
+  line-height: 0.94;
+}
+
+.marquee-brand {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+}
+
+.input-dark {
+  width: 100%;
+  border: 1px solid var(--line);
+  background: #0c111f;
+  color: var(--text);
+  border-radius: 0.85rem;
+  padding: 0.95rem 1rem;
+  outline: none;
+}
+
+.input-dark::placeholder {
+  color: #6f7a98;
+}
+
+.input-dark:focus {
+  border-color: var(--gold);
+}
+
+.btn-gold {
+  background: var(--gold);
+  color: #11131b;
+  border: 1px solid #f7d27a;
+  border-radius: 0.75rem;
+  font-weight: 800;
+  padding: 0.85rem 1.1rem;
+}
+
+.btn-dark {
+  background: #151b2e;
+  color: var(--muted);
+  border: 1px solid var(--line);
+  border-radius: 0.75rem;
+  font-weight: 700;
+  padding: 0.85rem 1.1rem;
+}
+
+.shell-width {
+  width: min(100%, 1360px);
+  margin-inline: auto;
+}
+
+.card-border {
+  border: 1px solid var(--line);
+}
