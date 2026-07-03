@@ -163,31 +163,31 @@ SeatSprint
 
 ## Login
 
-<img src="C:\Users\Ishank\OneDrive\Pictures\Screenshots\Screenshot 2026-07-03 094151.png" alt="Login page" width="800" />
+<img src="project_images/login.png" alt="Login page" width="800" />
 
 ---
 
 ## Browse Events
 
-<img src="C:\Users\Ishank\OneDrive\Pictures\Screenshots\Screenshot 2026-07-03 094743.png" alt="Browse events page" width="800" />
+<img src="project_images/browse.png" alt="Browse events page" width="800" />
 
 ---
 
 ## My Bookings
 
-<img src="C:\Users\Ishank\OneDrive\Pictures\Screenshots\Screenshot 2026-07-03 094758.png" alt="My bookings page" width="800" />
+<img src="project_images/bookings.png" alt="My bookings page" width="800" />
 
 ---
 
 ## Organizer Dashboard
 
-<img src="C:\Users\Ishank\OneDrive\Pictures\Screenshots\Screenshot 2026-07-03 094813.png" alt="Organizer dashboard" width="800" />
+<img src="project_images/organize.png" alt="Organizer dashboard" width="800" />
 
 ---
 
 ## Database
 
-<img src="C:\Users\Ishank\OneDrive\Pictures\Screenshots\Screenshot 2026-07-03 094948.png" alt="MySQL Workbench users table" width="800" />
+<img src="project_images/database.png" alt="MySQL Workbench users table" width="800" />
 
 ---
 
